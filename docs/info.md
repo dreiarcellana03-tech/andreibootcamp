@@ -7,14 +7,14 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works 1
+## ANDREI BOOTCAMP
 
 NOT YET
 
-## How to test 2
+## TESTING 1
 
 NOT YET
 
-## External hardware 3
+## TESTING 2
 
 NOT YET
